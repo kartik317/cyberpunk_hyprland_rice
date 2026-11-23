@@ -1,8 +1,6 @@
-# Terminal Desktop Configuration
+# Cyberpunk Desktop Configuration
 
-[![Desktop image](img.png)](https://youtu.be/Kso0QgYjI9Q)
-
-note: I changed a lot of things, I'll update README soon
+[![Desktop image](img.png)](https://youtu.be/YfSadhUwuus)
 
 A custom Hyprland and Quickshell setup for a polished Linux desktop experience. This configuration includes:
 
